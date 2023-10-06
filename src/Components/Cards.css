@@ -1,0 +1,27 @@
+.hero-card {
+    width:30%;
+    margin:10px;
+    text-align: justify;
+}
+
+.hero-card img {
+    width:100%;
+    border-radius: 15px;
+    height: 170px;
+}
+
+.hero-name {
+    font-weight: bold;
+}
+
+.hero-text {
+    font-size: smaller;
+    
+}
+
+.hero-card button {
+    width: 100%;
+    height: 30px;
+    font-size: large;
+    margin-top: 15px;
+}
